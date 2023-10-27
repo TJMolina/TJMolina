@@ -1,6 +1,6 @@
  #  @TJMolina
-<h1>Hello! 👋 I'm Tobias Molina</h1>
-<h3>I'm 18 years old, and I'm a student in the IT Technician program. I specialize in Full Stack web development.</h3>
+<h1 align="center">Hello! 👋 I'm Tobias Molina</h1>
+<h3 align="center">I'm 18 years old, and I'm a student in the IT Technician program. I specialize in Full Stack web development.</h3>
 
 ## Some technologies I use 💻
 
@@ -22,6 +22,6 @@
 
 ## Contact 📍
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)]([https://github.com/TJMolina]))
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)]([https://github.com/TJMolina])
 [![Twitter](https://img.shields.io/badge/Email-red?&style=for-the-badge&logo=mastodon&logoColor=white)](mailto:contact.tobiasmolina160@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-molina)
